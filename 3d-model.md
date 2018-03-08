@@ -1,15 +1,15 @@
 # nicebam.github.io
 
-[Link](https://www.thingiverse.com/thing:524925)
-[Link](https://www.thingiverse.com/thing:1203831)
-[Link](https://www.thingiverse.com/thing:903411)
-[Link](https://www.thingiverse.com/thing:726825)
-[Link](https://www.thingiverse.com/thing:372358)
-[Link](https://www.thingiverse.com/thing:201097)
-[Link](https://www.thingiverse.com/thing:2725597)
-[Link](https://www.thingiverse.com/thing:1385312)
-[Link](https://www.thingiverse.com/thing:201097)
-[Link](https://www.thingiverse.com/thing:346351)
+[https://www.thingiverse.com/thing:524925](https://www.thingiverse.com/thing:524925)
+[https://www.thingiverse.com/thing:1203831](https://www.thingiverse.com/thing:1203831)
+[https://www.thingiverse.com/thing:903411](https://www.thingiverse.com/thing:903411)
+[https://www.thingiverse.com/thing:726825](https://www.thingiverse.com/thing:726825)
+[https://www.thingiverse.com/thing:372358](https://www.thingiverse.com/thing:372358)
+[https://www.thingiverse.com/thing:201097](https://www.thingiverse.com/thing:201097)
+[https://www.thingiverse.com/thing:2725597](https://www.thingiverse.com/thing:2725597)
+[https://www.thingiverse.com/thing:1385312](https://www.thingiverse.com/thing:1385312)
+[https://www.thingiverse.com/thing:201097](https://www.thingiverse.com/thing:201097)
+[https://www.thingiverse.com/thing:346351](https://www.thingiverse.com/thing:346351)
 
 tool
 [Link](https://www.thingiverse.com/thing:1008943)
